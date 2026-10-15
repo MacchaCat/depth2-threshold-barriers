@@ -1,0 +1,6 @@
+lean/.lake/
+__pycache__/
+*.pyc
+.DS_Store
+sa_cover
+dy_affine
