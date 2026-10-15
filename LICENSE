@@ -19,10 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-This MIT License applies to the code in this repository: everything under
-`lean/` and `code/`. The documentation (`README.md`, everything under `docs/`
-and `lean/README.md`) is licensed separately under Creative Commons
-Attribution 4.0 International; see `LICENSE-CC-BY-4.0.txt`.
