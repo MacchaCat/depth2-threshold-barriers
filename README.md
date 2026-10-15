@@ -91,6 +91,11 @@ Toolchain: Lean `v4.34.1`, Mathlib `v4.34.1` (pinned in `lean/lake-manifest.json
 - Jukna, *On graph complexity*, CPC 2006.
 - Nguyen, Vu, *Optimal inverse Littlewood–Offord theorems*, arXiv 1004.3967.
 
+### License
+
+- **Code** (`lean/`, `code/`): [MIT](LICENSE).
+- **Documentation** (`README.md`, `docs/`, `lean/README.md`): [CC BY 4.0](LICENSE-CC-BY-4.0.txt). Please credit @macchacat.
+
 ---
 
 ## 中文
@@ -168,3 +173,8 @@ gcc -O2 -o sa_cover code/sa_cover.c -lm
 工具链：Lean `v4.34.1`、Mathlib `v4.34.1`（版本固定在 `lean/lake-manifest.json`）。
 
 参考文献见上方英文部分。
+
+### 许可证
+
+- **代码**（`lean/`、`code/`）：[MIT](LICENSE)。
+- **文档**（`README.md`、`docs/`、`lean/README.md`）：[CC BY 4.0](LICENSE-CC-BY-4.0.txt)，转载或改编请署名 @macchacat。
